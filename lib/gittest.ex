@@ -13,6 +13,6 @@ defmodule Gittest do
 
   """
   def hello do
-    :world
+    :worlda
   end
 end
